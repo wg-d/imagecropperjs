@@ -1,3 +1,5 @@
 ./back-end/node_modules
 ./back-end/package-lock.json
-./back-end/cropped.jpg
+./back-end/cropped-image.jpg
+./back-end/original-image.jpg
+
