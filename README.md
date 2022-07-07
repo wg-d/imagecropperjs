@@ -1,6 +1,6 @@
 
 ## For frontend:
-
+`
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +16,7 @@
   <script>
     var downloadLink = document.createElement("a");
     document.body.appendChild(downloadLink);
-    downloadLink.download = "./cropped.jpg";
+    downloadLink.download = "cropped.jpg";
     var preview = document.getElementById('preview');
     imageClipper(imgSrc, function() {
         this.crop(x, y, cropWidth, cropHeight)  
@@ -29,10 +29,11 @@
   </script>
 </body>
 </html>
-
+`
 
 
 ## For backend: 
+`
 <script>
 
 var Clipper = require('image-clipper');
@@ -47,3 +48,4 @@ Clipper('/path/to/image.jpg', function() {
 });
 
 </script>
+`
