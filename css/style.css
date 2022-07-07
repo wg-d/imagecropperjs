@@ -1,8 +1,0 @@
-img {
-    max-width: 100%; /* This rule is very important, please do not ignore this! */
-}
-
-canvas {
-    color: yellowgreen;
-    border: 1px solid red;
-}
