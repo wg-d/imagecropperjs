@@ -2,6 +2,9 @@
 
 
 ## Server-side
+Run:
+`cd server-side && npm install && node index.js`
+And set `parameters` in `#Parameters` section in `index.js`
 
 ```js
 var Clipper = require('image-clipper');
@@ -9,7 +12,7 @@ var Clipper = require('image-clipper');
 Clipper('/path/to/image.jpg', function() {
     this.crop(20, 20, 100, 100)
     .resize(50, 50)
-    .quality(80)
+    .quality(92)
     .toFile('/path/to/result.jpg', function() {
        console.log('saved!');
    });
@@ -17,7 +20,7 @@ Clipper('/path/to/image.jpg', function() {
 ```
 
 ## Client-side (browser)
-
+Open `index.html` and set `parameters` in `parameters.js`
 
 ```html
 <img id="preview" alt="image-clipper preview">
