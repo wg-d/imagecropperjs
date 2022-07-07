@@ -1,4 +1,4 @@
-# imagecropper
+# Image Cropper
 
 ## About this library
 
