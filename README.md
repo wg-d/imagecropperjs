@@ -5,8 +5,10 @@
 This library is utilizing `image-clipper` module and made for simple image cropping with `5 parameters` - `base64 string`, `starting point X`, `starting point Y`, `cropping width` and `cropping height`.
 
 I always welcome to comments and feedback on this library. 
-Feel free to ping me at dmitriykokolo@gmail.com for any development or usage issue with the library.
-For more infomation about my expertise, visit my portfolio website. https://dmitriy-kokolo.web.app
+Feel free to ping me at `dmitriykokolo@gmail.com` or skype me at `live:.cid.1c3770f2a3c6fb02` for any development or usage issue with the library.
+For more infomation about my expertise, visit my portfolio website https://dmitriy-kokolo.web.app and github https://github.com/wg-d.
+If you want to support me for my open source work, consider sending crypto to 0x40F06E0429F3aE260F94d93a700c8bC3502d9B54 (BSC, Ethereum) or star my repos on github.com at least. 
+
 Thank you very much!
 
 ## Server-side
