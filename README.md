@@ -6,6 +6,8 @@ This library is utilizing `image-clipper` module and made for simple image cropp
 
 I always welcome to comments and feedback on this library. 
 Feel free to ping me at dmitriykokolo@gmail.com for any development or usage issue with the library.
+For more infomation about my expertise, visit my portfolio website. https://dmitriy-kokolo.web.app
+Thank you very much!
 
 ## Server-side
 Run:

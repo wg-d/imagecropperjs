@@ -1,4 +1,4 @@
-./server-side/node_modules
+# ./server-side/node_modules
 ./server-side/package-lock.json
 ./server-side/cropped-image.jpg
 ./server-side/original-image.jpg
