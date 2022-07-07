@@ -1,5 +1,11 @@
 # imagecropper
 
+## About this library
+
+This library is utilizing `image-clipper` module and made for simple image cropping with `5 parameters` - `base64 string`, `starting point X`, `starting point Y`, `cropping width` and `cropping height`.
+
+I always welcome to comments and feedback on this library. 
+Feel free to ping me at dmitriykokolo@gmail.com for any development or usage issue with the library.
 
 ## Server-side
 Run:
