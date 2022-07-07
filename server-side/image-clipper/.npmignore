@@ -1,9 +1,0 @@
-npm-debug.log
-.idea/
-node_modules/
-
-dist/
-example/
-test/
-Gruntfile.js
-bower.json
